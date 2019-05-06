@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sutomaemoh.manutamminen.info/sitemap.xml
